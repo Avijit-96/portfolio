@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head> <!-- Document Head Starts -->
+<title> Tables </title>
+</head> <! -- Document Head Ends -->
+<body > <!-- Document Body Starts -->
+<table class="example3" border="2"> <!--Table Tag Starts -->
+<tr> <!--Table Row Starts -->
+<th colspan="2">Table header</th> <!--This is Table Head -->
+</tr> <!--Table Row Ends -->
+<tr> <!--Table Row Starts -->
+<td width="20%">Table cell 1</td><td>Table cell 2</td>
+</tr> <!--Table Row Ends -->
+</table><br> <!--Table Tag Ends -->
+
+27
+
+<table class="example4" border="2"> <!--Table Tag Starts -->
+<tr> <!--Table Row Starts -->
+<th rowspan="2" width="25%">Table header</th> <!--This is Table Head -->
+<td width="30%">Table cell 1</td> <!--This is Table Data -->
+</tr> <!--Table Row Ends -->
+<tr> <!--Table Row Starts -->
+<td width="30%">Table cell 2</td> <!--This is Table Data -->
+</tr> <!--Table Row Ends -->
+</table> <!—Table Tag Ends -->
+</body> <! -- Document Body Ends -->
